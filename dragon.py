@@ -15,7 +15,7 @@ def line(p1, p2):
   t.penup()
   t.goto(p1)
   t.pendown()
-    t.goto(p2)
+  t.goto(p2)
 
 # Function to draw a connected chain of lines
 def polyline(points):
